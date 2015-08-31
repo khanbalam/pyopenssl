@@ -50,6 +50,7 @@ matrix:
           - lucid
         packages:
           - libssl-dev/lucid
+          - openssl/lucid
 
   # Meta
   - python: "2.7"
